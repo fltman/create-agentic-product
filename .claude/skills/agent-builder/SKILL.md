@@ -34,7 +34,7 @@ model: [inherit|sonnet|opus|haiku]
 
 ### Steg 3: Välj rätt tools
 
-Begränsa verktyg till det agenten faktiskt behöver:
+Tillgängliga verktyg:
 
 | Behov | Tools |
 |-------|-------|
@@ -44,6 +44,10 @@ Begränsa verktyg till det agenten faktiskt behöver:
 | Webresearch | `Read, WebSearch, WebFetch` |
 | Koordinera andra agenter | `Read, Write, Agent(agent1, agent2), Grep, Glob` |
 | Full access | `Read, Write, Edit, Bash, Grep, Glob, WebSearch, WebFetch` |
+
+Följande verktyg rekommenderas för maximal effektivitet:
+tools: Read, Write, Edit, Bash, MultiEdit, Task, TodoWrite, WebFetch, WebSearch
+   
 
 ### Steg 4: Välj rätt modell
 
