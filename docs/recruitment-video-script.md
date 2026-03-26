@@ -41,6 +41,16 @@ Säkerhetsvakter / inspektörer som söker nytt jobb. Omedelbar tillträde.
 > Nu söker vi fler till vårt team. Omedelbar tillträde.
 > Cargo Survey. Ansök idag.
 
+## Referensbilder (GODKÄNDA)
+
+Fyra bilder genererade i Gemini och godkända av användaren:
+- **scene1-harbor-dawn** — Panorama av hamn med oljetanker vid kaj, pipelines, cisterner, gyllene solnedgång
+- **scene2-inspector-work** — Inspektör i orange varselkläder och hjälm kontrollerar rörledningar vid pumpstation
+- **scene3-team-walking** — Tre inspektörer går tillsammans på kajen, professionella och glada, oljetanker i bakgrund
+- **scene4-logo-cta** — Slutkort med "CARGO SURVEY" i industriell metallisk font, rekryteringstext
+
+**Suno-låt vald:** https://suno.com/s/YiqTDMMKeeWZyhGJ
+
 ## Musikbeskrivning
 Elektronisk/industriell med tung rock-känsla. Börjar med ett lågt pulsslag, bygger upp till ett kraftfullt crescendo. Metalliska ljud, tunga beats, men inte aggressivt — snarare bestämt och professionellt.
 
