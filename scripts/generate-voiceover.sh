@@ -33,7 +33,7 @@ if [ -z "$ELEVENLABS_API_KEY" ]; then
 fi
 
 echo "Genererar voiceover..."
-python "$SCRIPT" \
+python3 "$SCRIPT" \
   --input "$OUTDIR/cargo-survey-dialogue.json" \
   --output "$OUTDIR/cargo-survey-voiceover.mp3"
 
